@@ -1,2 +1,1 @@
-# tweetnaclcrypto
-TweetNaCl crypto with an installer
+just launch installer.cmd or installer.py to install it
